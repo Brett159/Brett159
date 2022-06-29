@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Brett Hillman, and I'm a entry level software engineer,who lives in Orlando, FL currently enrolled in the Thinkful bootcamp,
+- 👋 Hi, My name is Brett Hillman, I am a entry level software engineer,who lives in Orlando, FL currently enrolled in the Thinkful bootcamp,
 -  which focuses on Javascript, Html, and Css
 - 👀 I’m interested in becoming a full stack engineer at a company where i can write meaningful code that is challanging and is constently testing my abilites.
 - 🌱 I’m currently learning Javascript, HTML, CSS
